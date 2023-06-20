@@ -1,55 +1,51 @@
-# ¡Hola! 👋
+## ¡Hola! 👋 
 
-¡Bienvenido(a) a mi perfil de GitHub! Soy Danielaa Espinosa, una estudiante apasionada por la programación y la tecnología. Me encanta aprender y compartir conocimientos con otros desarrolladores. ¡Gracias por visitar mi perfil!
+Soy Daniela Espinosa, estudiante de Ingenieria de software, soy parte de algunas comunidades tecnologicas y disfruto explorando nuevas herramientas y tecnologías para mejorar mis habilidades.
 
-## Sobre mí
+### Lenguajes y Herramientas:
 
-¡Hola de nuevo! Soy un estudiante entusiasta y orgulloso miembro de la comunidad de Campus Experts y Beta en MLSA. Me apasiona la programación, la tecnología y el aprendizaje continuo. Siempre estoy buscando nuevas oportunidades para crecer y conectar con otros desarrolladores.
+Aquí hay un vistazo rápido a algunas de las tecnologías y herramientas que utilizo:
 
-<div style="display:flex; justify-content: space-between; align-items: flex-start;">
-  <div style="flex-basis: 45%;">
-    <h3>Campus Expert</h3>
-    <p align="center">
-    </p>
-    <p>Como Campus Expert, tengo el privilegio de fomentar el espíritu emprendedor y la colaboración en mi campus. Organizo talleres, charlas y eventos para ayudar a otros estudiantes a desarrollar sus habilidades técnicas y fomentar una comunidad inclusiva de aprendizaje.</p>
-  </div>
-  <div style="flex-basis: 45%;">
-    <h3>Beta en MLSA</h3>
-    <p align="center">
-    </p>
-    <p>También formo parte del programa Beta en MLSA, donde tengo la oportunidad de contribuir al desarrollo de soluciones tecnológicas innovadoras y aprender de otros desarrolladores talentosos. Estoy emocionado(a) de formar parte de esta comunidad y compartir mis experiencias con ustedes.</p>
-  </div>
+- Flutter
+- React
+- JavaScript
+- C
+- C++
+- Python
+- Flask
+- FastAPI
+- Docker
+- Linux
+- Azure
+- Postman
+- Java
+- Git
+- GitHub
+
+### Estadísticas
+
+Aquí tienes algunas estadísticas que pueden darte una idea de mi experiencia y contribuciones:
+
+<p align="center"> <a href="https://github.com/DanielaaER/"><img src="https://github-profile-trophy.vercel.app/?username=leo-oh&theme=discord&column=-1" alt="DanielaaER"/></a> </p>
+
+<div align="center">
+<a href="https://github.com/DanielaaER">
+    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=DanielaaER&count_private=false&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaaER&theme=tokyonight&hide_border=false&&layout=compact"/>
+    <img height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielaaER&theme=tokyonight&hide_border=false&&layout=compact" alt="DanielaaER"/>
+  </a>  
 </div>
 
-<!--- ## Proyectos destacados
+### Roles y Certificaciones
 
-Aunque todavía estoy en proceso de construir mi cartera de proyectos, aquí hay algunos en los que he trabajado:
+- Beta en Microsoft Learn Student Ambassador
+- GitHub Campus Expert
 
--->
+### Contacto
 
-## Estadísticas
+Si deseas comunicarte conmigo o conocer más sobre mi trabajo, puedes encontrarme en las siguientes plataformas:
 
-¡Echa un vistazo a algunas de mis estadísticas en GitHub!
+- Instagram: [Enlace a mi perfil de Instagram](https://www.instagram.com/danielaa_er/)
+- LinkedIn: [Enlace a mi perfil de LinkedIn]([https://www.linkedin.com/in/tu_perfil](https://www.linkedin.com/in/danielaaer/))
 
-<div style="display:flex; justify-content: space-between; align-items: center;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=DanielaaER&show_icons=true&count_private=true&theme=radical" alt="Estadísticas generales de GitHub">
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaaER&layout=compact&theme=radical" alt="Lenguajes más utilizados">
-  </div>
-</div>
-
-![Estadísticas de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=DanielaaER&theme=radical)
-
-Estas son solo algunas de mis estadísticas en GitHub. Puedes obtener más detalles visitando mi perfil.
-
-## Contacto
-
-Si quieres contactarme, puedes hacerlo a través de las siguientes vías:
-
-- Email: danielaa.espinosa.3103@gmail.com
-- LinkedIn: [Mi perfil de LinkedIn](https://www.linkedin.com/in/danielaaer/)
-- Instagram: [Mi perfil de Instagram](https://www.instagram.com/danielaa_er/)
-
-¡Gracias por visitar mi perfil! Estoy emocionadaa de conectar con otros desarrolladores y aprender juntos. ¡No dudes en dejarme un mensaje y hacernos amigos en la comunidad de programadores!
+¡Espero que esta información te haya sido útil! No dudes en contactarme si tienes alguna pregunta o si deseas colaborar en algún proyecto interesante. ¡Gracias por visitar mi perfil! 😊
