@@ -1,10 +1,11 @@
 ## ¡Hola! 👋 
 
-Soy Daniela Espinosa, estudiante de Ingenieria de software, soy parte de algunas comunidades tecnologicas y disfruto explorando nuevas herramientas y tecnologías para mejorar mis habilidades.
+Soy Daniela Espinosa, estudiante de Ingeniería de Software. Soy parte de algunas comunidades tecnológicas y disfruto explorando nuevas herramientas y tecnologías para mejorar mis habilidades.
 
 ### Lenguajes y Herramientas:
 
-Aquí hay un vistazo rápido a algunas de las tecnologías y herramientas que utilizo:
+Aquí tienes un vistazo rápido a algunas de las tecnologías y herramientas que utilizo:
+
 <!---
 - Flutter
 - React
@@ -22,6 +23,7 @@ Aquí hay un vistazo rápido a algunas de las tecnologías y herramientas que ut
 - Git
 - GitHub
 -->
+
 <p align="center">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
@@ -68,6 +70,9 @@ Aquí hay un vistazo rápido a algunas de las tecnologías y herramientas que ut
   <a href="https://github.com" target="_blank" rel="noreferrer">
     <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="github" width="40" height="40"/>
   </a> 
+  <!---<a href="#" target="_blank" rel="noreferrer">
+  <img src="" alt="chatgpt" width="40" height="40" />
+</a> -->
 </p>
 
 
@@ -95,6 +100,6 @@ Aquí tienes algunas estadísticas que pueden darte una idea de mi experiencia y
 Si deseas comunicarte conmigo o conocer más sobre mi trabajo, puedes encontrarme en las siguientes plataformas:
 
 - Instagram: [Enlace a mi perfil de Instagram](https://www.instagram.com/danielaa_er/)
-- LinkedIn: [Enlace a mi perfil de LinkedIn]([https://www.linkedin.com/in/tu_perfil](https://www.linkedin.com/in/danielaaer/))
+- LinkedIn: [Enlace a mi perfil de LinkedIn](https://www.linkedin.com/in/danielaaer/)
 
 ¡Espero que esta información te haya sido útil! No dudes en contactarme si tienes alguna pregunta o si deseas colaborar en algún proyecto interesante. ¡Gracias por visitar mi perfil! 😊
